@@ -26,8 +26,8 @@ public class TaskControllerIT {
     @Container
     static MySQLContainer<?> mysql = new MySQLContainer<>("mysql:8.0")
             .withDatabaseName("taskdb")
-            .withUsername("user")
-            .withPassword("pass");
+            .withUsername("root")
+            .withPassword("");
 
     @DynamicPropertySource
     static void configureProperties(DynamicPropertyRegistry registry) {
