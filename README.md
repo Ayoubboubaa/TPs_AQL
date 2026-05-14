@@ -1,5 +1,8 @@
 # TPs AQL - Tests Unitaires et Intégration
 
+**Auteur : KELAIAIA AYOUB**  
+**Spécialité : Réseaux et Systèmes Distribués**
+
 Ce repository contient les travaux pratiques du cours AQL.
 
 ## TP1 - Tests Unitaires avec Couverture de Code
